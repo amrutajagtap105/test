@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 <!DOCTYPE html>
-
+<h1>Hello</h1>
 <html>
 <!--    <head>
         <meta charset="UTF-8">
